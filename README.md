@@ -1,2 +1,2 @@
 # Java
-Exercícios da disciplina Java
+Notas de aula da disciplina Java
